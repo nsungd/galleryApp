@@ -1,2 +1,2 @@
 ### Gallery App
-### Use mvn javafx:build to run
+### Use mvn javafx:run to run
